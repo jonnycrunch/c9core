@@ -105,6 +105,10 @@
     text-decoration: underline;
 }
 
+aceterm-line-bg {
+     color: #fff;
+}
+
 .terminal > .ace_line {
     contain: style size layout!important;
 }
